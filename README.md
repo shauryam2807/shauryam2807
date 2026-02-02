@@ -1,15 +1,15 @@
 ## Hi 👋,I'm Shaurya Mishra
-AI & ML | Data Science | Competitive Programming
+AI & ML | Data Science | Competitive Programming(Codeforces & Codechef)
 
 # 💫 About Me:
 I am currently working on ML projects and countributing to GSoC26 this year
 
-#Email me on **shauryam934@gmail.com**
+#Email me on **shauryam934@gmail.com**,devm89548@gmail.com
 
 - 🔭 I’m currently working on ML projects and GSOC26 Countributer
 - 🌱 I worked on Data Science projects
 - 👯 I’m looking to collaborate with GSOC26 Countributers
-- 📫 How to reach me: Email me- shauryam934@gmail.com
+- 📫 How to reach me: Email me- shauryam934@gmail.com,devm89548@gmail.com
 -->
 
 
