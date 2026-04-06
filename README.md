@@ -69,14 +69,15 @@ Welcome to my digital workspace! I am an engineer specializing in **Machine Lear
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shauryam2807&theme=dark&hide_border=false" alt="Streak Stats" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shauryam2807&show_icons=true&theme=dark&hide_border=false" alt="Shaurya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryam2807&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shauryam2807&theme=dark" alt="Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shauryam2807&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shauryam2807&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
+
+
 
 <br/>
 
