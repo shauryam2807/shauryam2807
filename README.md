@@ -28,12 +28,18 @@ Welcome to my digital workspace! I am an engineer specializing in **Machine Lear
 
 *I actively contribute to complex scientific and machine learning repositories:*
 
-| Organization / Repository | Domain | Scope of Work & Contributions | Links |
-| :--- | :--- | :--- | :---: |
-| **`malariagen/malariagen-data-python`** | Genomic Analysis | Added cohort filtering logic for unassigned samples `#983` and configured multi-panel parameter forwarding `#1001`. | [🔗 PR #983](https://github.com/malariagen/malariagen-data-python/pull/983) |
-| **`humanai-foundation/RenAIssance`** | AI Foundations | Exploring core AI architectures alongside Python-based development for the `HealingStones` framework. | [🔗 Repo](https://github.com/humanai-foundation/RenAIssance) |
-| **`mllam/neural-lam`** | Weather Modeling | Ported mathematical sample-based `CRPS` (Continuous Ranked Probability Score) and ensemble variance metrics `#226`.| [🔗 PR #226](https://github.com/mllam/neural-lam/pull/226) |
-| **`finternet-io/demo-finternet-...`** | Verifiable Data| Designed and implemented a modular VP builder for selective disclosure protocols. | [🔗 #748](https://github.com/finternet-io/demo-finternet-account) |
+| Organization | Domain | Contribution | PR | Status |
+| :--- | :--- | :--- | :---: | :---: |
+| **`shap/shap`** | Explainable AI | Migrated 5 numba functions to C++ via nanobind — **12.9x speedup** | [#4646](https://github.com/shap/shap/pull/4646) | 📝 Draft |
+| **`shap/shap`** | Explainable AI | Added 19 unit tests for `_clustering.py` utilities | [#4634](https://github.com/shap/shap/pull/4634) | 🔓 Open |
+| **`shap/shap`** | Explainable AI | Fixed deprecated `datetime.utcnow()` calls | [#4393](https://github.com/shap/shap/pull/4393) | ✅ Merged |
+| **`malariagen/malariagen-data-python`** | Genomics | Normalized `taxon_by` handling in cohort grouping | [#997](https://github.com/malariagen/malariagen-data-python/pull/997) | 🔓 Open |
+| **`malariagen/malariagen-data-python`** | Genomics | Added cohort filtering for unassigned samples | [#983](https://github.com/malariagen/malariagen-data-python/pull/983) | ✅ Merged |
+| **`mllam/neural-lam`** | Weather AI | Ported sample-based CRPS & ensemble variance metrics | [#226](https://github.com/mllam/neural-lam/pull/226) | 🔓 Open |
+| **`humanai-foundation/RenAIssance`** | AI / OCR | Built 3-phase OCR pipeline for Renaissance manuscripts | [Repo](https://github.com/humanai-foundation/RenAIssance) | 🔨 Active |
+| **`finternet-io/demo-finternet`** | Verifiable Data | Modular VP builder for selective disclosure protocols | [Repo](https://github.com/finternet-io/demo-finternet-account) | 🔨 Active |
+
+
 
 <br/>
 
@@ -53,8 +59,10 @@ Welcome to my digital workspace! I am an engineer specializing in **Machine Lear
 
 **Languages**<br/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 **Web & Database**<br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
